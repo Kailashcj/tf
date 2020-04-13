@@ -15,6 +15,7 @@ resource "local_file" "literature" {
       The are of war, is governed by five constant factors, to be 
       taken into account in one's deliberations, when seeking to
       determine the conditions obtaining in the field.
+      Final lines added to test PR
     EOT
     filename = "art_of_war.txt"
 }
